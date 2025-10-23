@@ -1,3 +1,6 @@
+# employee-managment-app
+employee management project with react js using employee management service project as a backend 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
